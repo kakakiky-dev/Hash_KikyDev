@@ -1,0 +1,15 @@
+body{
+    background-color: #000220;
+}
+
+.jumbotron {
+    height: 92vh;
+}
+
+/* Footer Wrapper */
+.site-infoku{position: relative; background:rgb(27,28,31);color:#fff;font-size:14px;padding:30px 30px;font-weight:500;text-align:center;border-top:5px solid rgb(32,33,36);line-height:2; margin-bottom: -50px}
+.site-infoku a{color:#fff;font-weight:500}
+.site-infoku a:hover{color: yellow}
+.eclipse-credit{display:inline-block}
+.site-infoku .fa.fa-heart{color:#f84436;margin:0 4px;animation:heart 2s infinite ease}
+@keyframes heart{from{transform:scale(1)}10%{transform:scale(1.2)}}
