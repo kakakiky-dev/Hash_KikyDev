@@ -60,7 +60,7 @@
                      <p class="card-text text-light">Assalamu'alaikum! Hai sobat, perkenalkan nama saya M. Rizki Riswandi.<br>Lahir dari keluarga sederhana di kota Medan pada tanggal 22 Januari tahun 2000.<br>Saya adalah seorang mahasiswa jurusan Informatika Fakultas Matematika dan Ilmu Pengetahuan alam, Universitas Syiah Kuala. Saat ini saya sedang menmpuh pendidikan semester 4 di perkuliahan.<br><br>Saya sangat menyukai dunia desain dan editing video, ya walaupun belum bisa dikatakan sebagai seorang yang professional. Martial Arts atau seni bela diri juga merupakan salah satu hobi yang saya sukai.<br><br>
                         Saya Juga memiliki sebuah blog yang saya rawat seperti anak sendiri. Dalam blog tersebut saya sering membagikan berbagai macam hal bermanfaat yang berhubungan dengan dunia pendidikan. Jika kalian tertarik, kalian bisa mencoba untuk mengunjungi blog saya melalui link: www.kakakiky.id
                      </p>
-                     <a type="button" href="https://github.com" class="btn btn-success">
+                     <a type="button" href="https://github.com/kakakiky-dev/Hash_KikyDev" class="btn btn-success">
                      <i class="fa fa-github"></i>
                      OPEN MY GITHUB CODE</a>
                      <br>
